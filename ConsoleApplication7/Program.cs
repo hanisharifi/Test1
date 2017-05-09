@@ -11,8 +11,8 @@ namespace ConsoleApplication7
         static void Main(string[] args)
         {
 
-            int x = 30;
-            int i = 35;
+            int x = 50;
+            
 
         }
     }
